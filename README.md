@@ -52,8 +52,7 @@ Documentation interne du projet :
 - Chaumont, Marc-André  
 - Fedjo Tejioeleng, Wilfried Jephthé  
 - Koumi, Mawulom Ida  
-- Mbengue, Mouhamadoul Bachir  
-- Njikap Djoukam, Ivan Loïc  
+- Mbengue, Mouhamadoul Bachir   
 - Nkeng Mandes, Louis  
 - Tambat, Trésor Mégane
 
